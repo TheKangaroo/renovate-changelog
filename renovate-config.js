@@ -1,5 +1,5 @@
 module.exports = {
-    platform: "gitlab",
+    platform: "github",
     token: process.env.RENOVATE_TOKEN,
     extends: [
       ":semanticPrefixFixDepsChoreOthers",
